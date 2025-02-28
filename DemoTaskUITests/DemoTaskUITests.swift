@@ -2,7 +2,6 @@
 //  DemoTaskUITests.swift
 //  DemoTaskUITests
 //
-//  Created by Sunanda Kar on 25/02/25.
 //
 
 import XCTest

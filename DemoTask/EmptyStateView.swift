@@ -2,7 +2,6 @@
 //  EmptyStateView.swift
 //  DemoTask
 //
-//  Created by Sunanda Kar on 26/02/25.
 //
 
 import SwiftUI

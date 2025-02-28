@@ -2,7 +2,6 @@
 //  DemoTaskItemApp.swift
 //  DemoTaskItem
 //
-//  Created by Sunanda Kar on 25/02/25.
 //
 
 import SwiftUI
